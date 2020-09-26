@@ -1,6 +1,6 @@
-### Hi 👋
+### Hi, I'm Philip! 👋
 
-- 🔭 I’m currently working on a MSc in Computational Biology and Bioinformatics @ ETH Zurich.
-- 🌱 I’m currently learning (next to my MSc) about various techniques
-  to analyze high dimensional, complex data to fundamental biological problems.
-- 📫 How to reach me: philip.hartout@protonmail.com, take a look at my website pjhartout.github.io.
+- 🔭 Currently working on a MSc in Computational Biology and Bioinformatics @ ETH Zurich.
+- 🌱 Next to my coursework, I'm working on analysing fMRI data using topological data analysis, as well as doing a project on cancer genomics.
+- :book: I'm interested in academic and nonfictional writing, as well as optimizing my workflow using emacs and the GTD framework.
+- 📫 How to reach me: philip.hartout@protonmail.com, take a look at my [website](pjhartout.github.io).
